@@ -14,7 +14,7 @@ export function AppRoutes() {
     <Navigator
       headerMode="none"
       screenOptions={{
-        cardStyle: {
+        contentStyle: {
           backgroundColor: theme.colors.secondary100
         }
       }}
